@@ -1,0 +1,1 @@
+[![Сборка status](https://ci.appveyor.com/api/projects/status/40nsb83ua3v43nyk?svg=true)](https://ci.appveyor.com/project/aparovi4/aqa-code-1)
